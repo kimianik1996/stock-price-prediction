@@ -28,7 +28,7 @@ LSTM (Long Short-Term Memory)
 Model performance was evaluated using Mean Absolute Error (MAE) and Accuracy Score.
 🔍 The Linear Regression model that used both technical and macroeconomic indicators achieved the best performance with 78% accuracy, showing strong predictive power beyond chance.
 
-📁 File Overview
+# 📁 File Overview
 
 QQQ Final - Presentation Slides.pptx
 Presentation summarizing the project methodology and results.
